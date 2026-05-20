@@ -39,4 +39,4 @@ Thumbs.db
 # Executáveis e instaladores (evitar peso no repositório)
 *.exe
 *.msi
-
+*.exe.meta
