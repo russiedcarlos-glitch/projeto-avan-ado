@@ -1,7 +1,3 @@
-# Projeto VR no Metaverso — Sala de Situação e Análise de Mercado
-
-**Aluno(a):** [SEU NOME AQUI]  
-**Turma / Residência:** [SUA TURMA AQUI]  
 
 ## 1) Apresentando o seu projeto
 Este projeto é uma experiência VR desenvolvida no Unity que simula uma **Sala de Situação corporativa** (sala de reuniões futurista) para **análise de mercado e tomada de decisão** no contexto do Metaverso.
@@ -32,33 +28,9 @@ Interação principal:
 - Configuração correta de eventos de Hover/Select nos objetos.
 - Balancear qualidade visual (materiais/iluminação) com performance para Quest.
 
-## 5) Como executar o projeto (Editor)
-> Ajuste os nomes conforme seu projeto.
-
-### Requisitos
-- Unity [VERSÃO AQUI]  
-- XR Interaction Toolkit instalado
-- Meta XR SDK / OpenXR configurado
-
-### Passos
-1. Abra o projeto no Unity.
-2. Abra a cena: `Assets/Scenes/SalaDeSituacao.unity` (ou equivalente).
-3. No Editor, use o **XR Device Simulator** para movimentar e testar a interação.
-
-## 6) Build para Meta Quest (Android)
-1. **File → Build Settings → Android → Switch Platform**.
-2. Texture Compression: **ASTC**.
-3. Ative **OpenXR** em XR Plugin Management (Android).
-4. Build e instalação no dispositivo (Quest), conforme orientação do curso.
-
 ## 7) Estrutura recomendada do repositório
 - `Assets/`
 - `Packages/`
 - `ProjectSettings/`
-- `.gitignore` (Unity)
-
+- `.gitignore` 
 ---
-
-### Links
-- Repositório GitHub: [COLE O LINK AQUI]
-
