@@ -1,0 +1,42 @@
+# Unity (padrão)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Unity meta / cache
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Builds / pacotes
+*.apk
+*.aab
+*.unitypackage
+
+# Executáveis e instaladores (evitar peso no repositório)
+*.exe
+*.msi
+
